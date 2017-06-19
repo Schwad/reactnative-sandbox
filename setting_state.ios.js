@@ -8,10 +8,15 @@ class Flash extends Component {
 
     //This will toggle the state randomly up to one second....
     setInterval(() => {
-      this.setState(previousState => {
+      this.setState(previousState  => {
         return { showText: !previousState.showText };
       });
-    }, Math.floor((Math.random() * 1000)););
+    }, Math.floor((Math.random() * 1000)));
+    /*
+    Realistically, I won't trigger setting of state from random time, but if
+    I am running a reactnative application on top of a Ruby On Rails backend I'll
+    be interacting with the server.
+    */
   }
 
   render() {
