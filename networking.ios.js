@@ -8,7 +8,7 @@
 **/
 
 import React, { Component } from 'react';
-import {  AppRegistry, ActivityIndicator, ListView, Text, View } from 'react-native';
+import { ActivityIndicator, ListView, Text, View } from 'react-native';
 
 export default class Movies extends Component {
   constructor(props) {
@@ -54,5 +54,4 @@ export default class Movies extends Component {
     );
   }
 }
-
 AppRegistry.registerComponent('AwesomeProject2', () => Movies);
