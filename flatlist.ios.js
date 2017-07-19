@@ -11,7 +11,7 @@ export default class FlatListBasics extends Component {
             {key: 'Jackson'},
             {key: 'James'},
             {key: 'Joel'},
-            {key: 'John'},
+            {key: 'd'},
             {key: 'Jillian'},
             {key: 'Jimmy'},
             {key: 'Julie'},

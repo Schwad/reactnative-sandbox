@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   },
   sectionHeader: {
     paddingTop: 2,
-    paddingLeft: 30,
+    paddingLeft: 10,
     paddingRight: 10,
     paddingBottom: 2,
     fontSize: 14,
