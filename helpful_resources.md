@@ -9,6 +9,7 @@ This is a curated list of resources I've found or wanted to bookmark whilst work
 - [Awesome React Native](http://www.awesome-react-native.com/) : Collation of React Native links and libraries. Like this but awesome-er?
 - [React-Navigation](https://github.com/react-community/react-navigation) : Is this like the bootstrap of the React Native world? [Home Site](https://reactnavigation.org/)
 - [native-navigation](https://github.com/airbnb/native-navigation) : Seems to be the biggest competitor to the above. From Airbnb.
+- [Navigation Playground](https://github.com/react-community/react-navigation/tree/master/examples/NavigationPlayground/js) : Now this is right up my alley. Has a bunch of small sample applications and snippets you can run from your machine here to demonstrate elements of React Navigation.
 - [Nuclide](https://nuclide.io/) : This is the ide that the ReactNative creators build on. They seem to like it a lot.
 - [Ignite](https://github.com/infinitered/ignite) : Toolkit with a CLI?
 - [Code Push](https://microsoft.github.io/code-push/) : I reckon this helps you avoid going to the app store process for every char change.
